@@ -1,12 +1,6 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyBF_IJckknW2Rg6ww6ITW7gNgavENU7gO0",
-  authDomain: "rockpaperscissors-b3c08.firebaseapp.com",
-  databaseURL: "https://rockpaperscissors-b3c08.firebaseio.com",
-  projectId: "rockpaperscissors-b3c08",
-  storageBucket: "rockpaperscissors-b3c08.appspot.com",
-  messagingSenderId: "31174299410",
-  appId: "1:31174299410:web:68ff4076cfaadc8c87adcb"
+  //Config is hidden on this repo, PM me for information.
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
